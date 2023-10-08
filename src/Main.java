@@ -20,7 +20,13 @@ System.out.println("number2");
 int multiplication = number1*number2;
 System.out.println(multiplication);
 
+int addition=number1+number2;
 
+System.out.println(addition);
+
+int division=5/3;
+
+System.out.println("division");
 
 
 
